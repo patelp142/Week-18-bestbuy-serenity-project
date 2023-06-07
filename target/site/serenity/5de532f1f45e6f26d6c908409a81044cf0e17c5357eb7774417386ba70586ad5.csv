@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores CRUD test","Creating store and verifying the creation.","SUCCESS","2023-06-07T22:38:13.168+01:00[Europe/London]","0.0","0.22"
+"Stores CRUD test","Getting store information by id.","SUCCESS","2023-06-07T22:38:13.390+01:00[Europe/London]","0.0","0.04"
+"Stores CRUD test","Updating store information by id.","SUCCESS","2023-06-07T22:38:13.437+01:00[Europe/London]","0.0","0.1"
+"Stores CRUD test","Deleting the store and verifying the deletion.","SUCCESS","2023-06-07T22:38:13.543+01:00[Europe/London]","0.0","0.06"
